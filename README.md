@@ -31,6 +31,6 @@ Backend geliştirme (.NET & Django), mobil (Flutter) üzerine çalışıyorum.
 
 ## İletişim
 
-[![LinkedIn](https://www.linkedin.com/in/tuana-%C5%9Fim%C5%9Fek-b756a433b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tuana%20Şimşek-blue)](https://www.linkedin.com/in/tuana-şimşek-b756a433b/)
 
 
