@@ -20,12 +20,13 @@ Backend geliştirme (.NET & Django), mobil (Flutter) üzerine çalışıyorum.
 
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [Kuaför Randevu Uygulaması] | Ekip projesi — Kullanıcı & giriş sistemi, JWT auth, roller (Admin/Müşteri/Stilist) | .NET · Flutter · JWT · SQL |
-| [İstanbul Toplu Taşıma Tahmini](https://github.com/tuanasimseek/IstanbulTopluTasima-YolcuYogunluguTahmini) | İBB verisiyle yolcu yoğunluğu tahmini — XGBoost ve PyTorch modelleri | Python · XGBoost · PyTorch |
-| [Horlama Tespiti](https://github.com/tuanasimseek/snore-detection) | Ses analizi + Arduino entegrasyonu ile gerçek zamanlı horlama tespiti | C++ · Python · TFLite · Arduino |
-| [DDoS Saldırı Tespiti](https://github.com/tuanasimseek/cyber-attack-DDoS-detection-and-prevention-main) | Ağ trafiği analizi ile siber saldırı tespiti | Python · ML |
-| Piyano Oyunu | Unity ile geliştirilmiş müzik tabanlı oyun | Unity · C# |
-| Mağaza Envanter Takibi | Flutter ile geliştirilmiş mobil envanter yönetimi uygulaması | Flutter · Dart |
+| [Kuaför Randevu Uygulaması](https://github.com/tuanasimseek/Kuafor) | Full-stack ekip projesi — Kullanıcı & giriş sistemi, JWT auth, roller (Admin/Müşteri/Stilist) | .NET · Flutter · JWT · SQL Server |
+| [İstanbul Toplu Taşıma Tahmini](https://github.com/tuanasimseek/IstanbulTopluTasima-YolcuYogunluguTahmini) | İBB verisiyle yolcu yoğunluğu tahmini — XGBoost ve PyTorch modelleri ile makine öğrenmesi | Python · XGBoost · PyTorch |
+| [Horlama Tespit Sistemi](https://github.com/tuanasimseek/snore-detection) | Ses analizi ve Arduino entegrasyonu ile gerçek zamanlı horlama tespiti | Python · C++ · TFLite · Arduino |
+| [DDoS Saldırı Tespiti](https://github.com/tuanasimseek/cyber-attack-DDoS-detection-and-prevention-main) | Ağ trafiği analizi ile siber saldırıların tespiti | Python · Makine Öğrenmesi |
+| [Piyano Oyunu](https://github.com/tuanasimseek/unity-piano-game) | Unity ile geliştirilmiş, düşen notalara senkronize müzik tabanlı oyun | Unity · C# |
+| [Mağaza Envanter Yönetimi](https://github.com/tuanasimseek/flutter-inventory-management) | Flutter ile geliştirilmiş mobil stok ve ürün yönetim uygulaması | Flutter · Dart |
+| [Termal SLAM Projesi](https://github.com/tuanasimseek/YOUR-SLAM-REPO) | Termal kamera verisi ile çalışan, grafik tabanlı SLAM sistemi (CNN ve ResNet ile özellik çıkarımı) | MATLAB · CNN · Computer Vision |
 
 ---
 
